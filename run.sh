@@ -23,7 +23,7 @@ njobs=4
 
 #local/fisher_prepare_dict.sh
 
-#utils/prepare_lang.sh data/local/dict "<unk>" data/local/lang data/lang
+utils/prepare_lang.sh data/local/dict "!SIL" data/local/lang data/lang
 
 #local/fisher_train_lms.sh 
 #local/fisher_create_test_lang.sh
@@ -35,45 +35,10 @@ njobs=4
 
 #utils/fix_data_dir.sh data/train_all
 
-. utils/parse_options.sh || exit 1
-
-#[[ $# -ge 1 ]] && { echo "Unexpected arguments"; exit 1; } 
-
-# Select a subset of the data to use
-# WARNING: the destination directory will be deleted if it already exists!
-#local/voxforge_select.sh --dialect $dialects \
-#  ${DATA_ROOT}/extracted ${selected} || exit 1
-
-# Mapping the anonymous speakers to unique IDs
-#local/voxforge_map_anonymous.sh ${selected} || exit 1
-
-# Initial normalization of the data
-local/voxforge_data_prep.sh --nspk_test ${nspk_test} ${selected} || exit 1
-
-# Prepare ARPA LM and vocabulary using SRILM
-local/voxforge_prepare_lm.sh --order ${lm_order} || exit 1
-
-echo yyyyyyyyyyyyyyyyy
-
-# Prepare the lexicon and various phone lists
-# Pronunciations for OOV words are obtained using a pre-trained Sequitur model
-local/voxforge_prepare_dict.sh || exit 1
-
-echo zzzzzzzzzzzz
-
-# Prepare data/lang and data/local/lang directories
-utils/prepare_lang.sh --position-dependent-phones $pos_dep_phones \
-  data/local/dict '!SIL' data/local/lang data/lang || exit 1
-
-# Prepare G.fst and data/{train,test} directories
-local/voxforge_format_data.sh || exit 1
-
-echo xxxxxxxxxxxxxxxxxx
-
 #steps/make_mfcc.sh --nj 20 --cmd "$train_cmd" data/train_all exp/make_mfcc/train_all $mfccdir || exit 1;
 
 mfccdir=${DATA_ROOT}/mfcc
-for x in train test; do 
+for x in train_src; do 
  steps/make_mfcc_pitch.sh --cmd "$train_cmd" --nj $njobs \
    data/$x exp/make_mfcc/$x $mfccdir || exit 1;
  steps/compute_cmvn_stats.sh data/$x exp/make_mfcc/$x $mfccdir || exit 1;
@@ -93,6 +58,10 @@ done
 #utils/subset_data_dir.sh --first data/test_and_test 5000 data/test
 #utils/subset_data_dir.sh --last data/test_and_test 5000 data/test
 #rm -r data/test_and_test
+
+################ for test ###################
+utils/subset_data_dir_tr_cv.sh --cv-spk-percent 10 data/train_src data/train data/test
+
 utils/subset_data_dir.sh data/train 1000 data/train.1k  || exit 1;
 
 #steps/compute_cmvn_stats.sh data/test exp/make_mfcc/dev $mfccdir 
