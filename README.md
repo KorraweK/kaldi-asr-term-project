@@ -1,8 +1,8 @@
-## kaldi-asr-term-project
+# kaldi-asr-term-project
 
 This project contains necessary files for training a speech recognition system in Thai using [kaldi-asr](https://github.com/kaldi-asr/kaldi) 
 
-# Important files include:
+## Important files include:
 
 Lexicon:
 1. lexicon.txt 
