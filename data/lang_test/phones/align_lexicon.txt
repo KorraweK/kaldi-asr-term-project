@@ -1,0 +1,747 @@
+!SIL !SIL SIL_S
+<eps> <eps> SIL
+กรอบ กรอบ kr_B @@_I p^_E
+กระเทียม กระเทียม kr_B a_I th_I iia_I m^_E
+กระแส กระแส kr_B a_I s_I xx_E
+กรุงศรี กรุงศรี kr_B u_I ng^_I s_I ii_E
+กรุงเทพ กรุงเทพ kr_B u_I ng^_I th_I ee_I p^_E
+กลับ กลับ kl_B a_I p^_E
+กลาง กลาง kl_B aa_I ng^_E
+กลางวัน กลางวัน kl_B aa_I ng^_I w_I a_I n^_E
+กล้วย กล้วย kl_B uua_I j^_E
+กว่า กว่า kw_B aa_E
+กสิกร กสิกร k_B a_I s_I i_I k_I @@_I n^_E
+กะเพรา กะเพรา k_B a_I phr_I aa_E
+กัญชา กัญชา k_B a_I n^_I ch_I aa_E
+กัน กัน k_B a_I n^_E
+กับ กับ k_B a_I p^_E
+การ การ k_B aa_I n^_E
+กาแฟ กาแฟ k_B aa_I f_I xx_E
+กำกับ กำกับ k_B a_I m^_I k_I a_I p^_E
+กิจกรรม กิจกรรม k_B i_I t^_I c_I a_I k_I a_I m^_E
+กิน กิน k_B i_I n^_E
+กินข้าว กินข้าว k_B i_I n^_I kh_I aa_I w^_E
+กีฬา กีฬา k_B ii_I l_I aa_E
+กี่ กี่ k_B ii_E
+กี่โมง กี่โมง k_B ii_I m_I oo_I ng^_E
+กุมภา กุมภา k_B u_I m^_I ph_I aa_E
+กู๊ด กู๊ด k_B uu_I o_I t^_E
+ก็ ก็ k_B @@_E
+ก็ได้ ก็ได้ k_B @@_I d_I aa_I j^_E
+ก่อน ก่อน k_B @@_I n^_E
+ก่อนหน้า ก่อนหน้า k_B @@_I n^_I n_I aa_E
+ก่อย ก่อย k_B @@_I j^_E
+ก๋วยเตี๋ยว ก๋วยเตี๋ยว k_B uua_I j^_I t_I iia_I w^_E
+ขนม ขนม kh_B a_I n_I o_I m^_E
+ขนาด ขนาด kh_B a_I n_I aa_I t^_E
+ขวด ขวด kh_B uua_I t^_E
+ขวัญ ขวัญ khw_B a_I n^_E
+ขอ ขอ kh_B @@_E
+ของ ของ kh_B @@_I ng^_E
+ของขวัญ ของขวัญ kh_B @@_I ng^_I khw_I a_I n^_E
+ขอบคุณ ขอบคุณ kh_B @@_I p^_I kh_I u_I n^_E
+ขั้น ขั้น kh_B a_I n^_E
+ขาย ขาย kh_B aa_I j^_E
+ขี้เกียจ ขี้เกียจ kh_B ii_I k_I iia_I t^_E
+ข้อมูล ข้อมูล kh_B @@_I m_I uu_I n^_E
+ข้าง ข้าง kh_B aa_I ng^_E
+ข้าม ข้าม kh_B aa_I m^_E
+ข้าว ข้าว kh_B aa_I w^_E
+ข้าวมัน ข้าวมัน kh_B aa_I w^_I m_I a_I n^_E
+ข้าวโพด ข้าวโพด kh_B aa_I w^_I ph_I oo_I t^_E
+คณะ คณะ kh_B a_I n_I a_E
+คน คน kh_B o_I n^_E
+คนนี้ คนนี้ kh_B o_I n^_I n_I ii_E
+ครั้ง ครั้ง khr_B a_I ng^_E
+คราว คราว khr_B aa_I w^_E
+ครีมเมอรี่ ครีมเมอรี่ khr_B ii_I m^_I m_I qq_I r_I ii_E
+ครึ่ง ครึ่ง khr_B v_I ng^_E
+คลุก คลุก khl_B u_I k^_E
+คล้าย คล้าย khl_B aa_I j^_E
+ควร ควร kh_B uua_I n^_E
+ความ ความ khw_B aa_I m^_E
+คะน้า คะน้า kh_B a_I n_I aa_E
+คะแนน คะแนน kh_B a_I n_I xx_I n^_E
+คำนวณ คำนวณ kh_B a_I m^_I n_I uua_I n^_E
+คิดส์ซาเนีย คิดส์ซาเนีย kh_B i_I t^_I s_I aa_I n_I iia_E
+คิล คิล kh_B i_I n^_E
+คิว คิว kh_B i_I w^_E
+คืน คืน kh_B vv_I n^_E
+คือ คือ kh_B vv_E
+คุย คุย kh_B u_I j^_E
+คู่ คู่ kh_B uu_E
+ค่อย ค่อย kh_B @_I j^_E
+ค่า ค่า kh_B aa_E
+ค่ำ ค่ำ kh_B a_I m^_E
+งบ งบ ng_B o_I p^_E
+งาน งาน ng_B aa_I n^_E
+งีบ งีบ ng_B ii_I p^_E
+ง่วง ง่วง ng_B uua_I ng^_E
+จบ จบ c_B o_I p^_E
+จอ จอ c_B @@_E
+จอง จอง c_B @@_I ng^_E
+จอด จอด c_B @@_I t^_E
+จะ จะ c_B a_E
+จัง จัง c_B a_I ng^_E
+จัด จัด c_B a_I t^_E
+จันทร์ จันทร์ c_B a_I n^_E
+จับ จับ c_B a_I p^_E
+จาก จาก c_B aa_I k^_E
+จากนี้ จากนี้ c_B aa_I k^_I n_I ii_E
+จาม จาม c_B aa_I m^_E
+จีน จีน c_B ii_I n^_E
+จุด จุด c_B u_I t^_E
+จุล จุล c_B u_I n^_E
+จุฬา จุฬา c_B u_I l_I aa_E
+จูเนีย จูเนีย c_B uu_I n_I iia_E
+จ่าย จ่าย c_B aa_I j^_E
+ฉัน ฉัน ch_B a_I n^_E
+ฉาย ฉาย ch_B aa_I j^_E
+ชอบ ชอบ ch_B @@_I p^_E
+ชะตา ชะตา ch_B a_I t_I aa_E
+ชัท ชัท ch_B a_I t^_E
+ชัฟเฟิล ชัฟเฟิล ch_B a_I f_I i_I n^_E
+ชั่ว ชั่ว ch_B uua_E
+ชั่วโมง ชั่วโมง ch_B uua_I m_I oo_I ng^_E
+ชั้น ชั้น ch_B a_I n^_E
+ชาบู ชาบู ch_B aa_I b_I uu_E
+ชาร์จ ชาร์จ ch_B aa_I t^_E
+ชีวิต ชีวิต ch_B ii_I w_I i_I t^_E
+ชื่อ ชื่อ ch_B vv_E
+ชูกา ชูกา ch_B uu_I k_I aa_E
+ช่วง ช่วง ch_B uua_I ng^_E
+ช่วย ช่วย ch_B uua_I j^_E
+ช้า ช้า ch_B aa_E
+ซอบิงโก ซอบิงโก s_B @@_I p^_I i_I ng^_I k_I oo_E
+ซอลบิง ซอลบิง s_B @@_I n^_I b_I qq_I ng^_E
+ซัก ซัก s_B a_I k^_E
+ซาวด์แทรก ซาวด์แทรก s_B aa_I w^_I s_I xx_I k^_E
+ซีท ซีท s_B ii_I t^_E
+ซีรีย์ ซีรีย์ s_B ii_I r_I ii_E
+ซีอิ๊ว ซีอิ๊ว s_B ii_I z_I i_I o_I w^_E
+ซื้อ ซื้อ s_B vv_E
+ซุเปอร์มาร์เก็ต ซุเปอร์มาร์เก็ต s_B u_I p_I qq_I m_I aa_I k_I @@_I t_E
+ซูเปอ ซูเปอ s_B uu_I p_I qq_E
+ซ้ำ ซ้ำ s_B a_I m^_E
+ญี่ปุ่น ญี่ปุ่น j_B ii_I p_I u_I n^_E
+ดนตรี ดนตรี d_B o_I n^_I tr_I ii_E
+ดรีม ดรีม d_B r_I ii_I m^_E
+ดัง ดัง d_B a_I ng^_E
+ดังๆ ดังๆ d_B a_I ng^_I ng^_E
+ดับ ดับ d_B a_I p^_E
+ดาว ดาว d_B aa_I w^_E
+ดิน ดิน d_B i_I n^_E
+ดี ดี d_B ii_E
+ดีแทค ดีแทค d_B ii_I th_I e_I k^_E
+ดึก ดึก d_B v_I k^_E
+ดื่ม ดื่ม d_B vv_I m^_E
+ดู ดู d_B uu_E
+ด้วย ด้วย d_B uua_I j^_E
+ตรง ตรง tr_B o_I ng^_E
+ตรา ตรา tr_B aa_E
+ตลาด ตลาด t_B a_I l_I aa_I t^_E
+ตอน ตอน t_B @@_I n^_E
+ตอนนี้ ตอนนี้ t_B @@_I n^_I n_I ii_E
+ตอนเที่ยง ตอนเที่ยง t_B @@_I n^_I th_I iia_I ng^_E
+ตอบ ตอบ t_B @@_I p^_E
+ตัด ตัด t_B a_I t^_E
+ตั้ง ตั้ง t_B a_I ng^_E
+ตั้งแต่ ตั้งแต่ t_B a_I ng^_I t_I xx_E
+ตั๋ว ตั๋ว t_B a_I uua_E
+ตาม ตาม t_B aa_I m^_E
+ตาราง ตาราง t_B aa_I r_I aa_I ng^_E
+ตำ ตำ t_B a_I m^_E
+ติด ติด t_B i_I t^_E
+ติดต่อ ติดต่อ t_B i_I t^_I t_I @@_E
+ตี ตี t_B ii_E
+ตีห้า ตีห้า t_B ii_I h_I aa_E
+ตึก ตึก t_B v_I k^_E
+ตื่น ตื่น t_B vv_I n^_E
+ต่อ ต่อ t_B @@_E
+ต่อไป ต่อไป t_B @@_I p_I a_I j^_E
+ต่ำ ต่ำ t_B a_I m^_E
+ต้น ต้น t_B o_I n^_E
+ต้ม ต้ม t_B o_I m^_E
+ต้อง ต้อง t_B @_I ng^_E
+ถอย ถอย th_B @_I j^_E
+ถัด ถัด th_B a_I t^_E
+ถาม ถาม th_B aa_I m^_E
+ถึง ถึง th_B v_I ng^_E
+ถูก ถูก th_B uu_I k^_E
+ถ่ายรูป ถ่ายรูป th_B aa_I j^_I r_I uu_I p^_E
+ถ้า ถ้า th_B aa_E
+ทน ทน th_B o_I n^_E
+ทรี ทรี s_B ii_E
+ทอง ทอง th_B @@_I ng^_E
+ทองดี ทองดี th_B @@_I ng^_I d_I ii_E
+ทอด ทอด th_B @@_I t^_E
+ทั้ง ทั้ง th_B a_I ng^_E
+ทั้งวัน ทั้งวัน th_B a_I ng^_I w_I a_I n^_E
+ทั้งหมด ทั้งหมด th_B a_I ng^_I m_I o_I t^_E
+ทาง ทาง th_B aa_I ng^_E
+ทำ ทำ th_B a_I m^_E
+ทำงาน ทำงาน th_B a_I m^_I ng_I aa_I n^_E
+ที ที th_B ii_E
+ทีม ทีม th_B ii_I m^_E
+ที่ ที่ th_B ii_E
+ที่นั่ง ที่นั่ง th_B ii_I n_I a_I ng^_E
+ที่นี่ ที่นี่ th_B ii_I n_I ii_E
+ที่พัก ที่พัก th_B ii_I ph_I a_I k^_E
+ที่แล้ว ที่แล้ว th_B ii_I l_I xx_I w^_E
+ทุก ทุก th_B u_I k^_E
+ทุกวัน ทุกวัน th_B u_I k^_I w_I a_I n^_E
+ทุ่ง ทุ่ง th_B u_I ng^_E
+ทุ่ม ทุ่ม th_B u_I m^_E
+ทูฟาสต์ ทูฟาสต์ th_B uu_I f_I aa_I t^_E
+ทูสลีบ ทูสลีบ th_B uu_I s_I a_I l_I ii_I p^_E
+ทูเดย์ ทูเดย์ th_B uu_I d_E
+ธนาคาร ธนาคาร th_B a_I n_I aa_I kh_I aa_I n^_E
+ธุระ ธุระ th_B u_I r_I a_E
+นอก นอก n_B @@_I k^_E
+นอน นอน n_B @@_I n^_E
+นอนได้ นอนได้ n_B @@_I n^_I d_I aa_I j^_E
+นะ นะ n_B a_E
+นักร้อง นักร้อง n_B a_I k^_I r_I @@_I ng^_E
+นักเรียน นักเรียน n_B a_I k^_I r_I iia_I n^_E
+นัด นัด n_B a_I t^_E
+นับ นับ n_B a_I p^_E
+นั่ง นั่ง n_B a_I ng^_E
+นั้น นั้น n_B a_I n^_E
+นาที นาที n_B aa_I th_I ii_E
+นาน นาน n_B aa_I n^_E
+นำ นำ n_B a_I m^_E
+นิติ นิติ n_B i_I t_I i_E
+นี่ นี่ n_B ii_E
+นี้ นี้ n_B ii_E
+นี้่ิ นี้่ิ n_B ii_E
+นึง นึง n_B v_I ng^_E
+น่า น่า n_B aa_E
+น้ำ น้ำ n_B aa_I m^_E
+น้ำตาล น้ำตาล n_B aa_I m^_I t_I aa_I n^_E
+น้ำปลา น้ำปลา n_B aa_I m^_I pl_I aa_E
+บน บน b_B o_I n^_E
+บริการ บริการ b_B @@_I r_I i_I k_I aa_I n^_E
+บรูซ บรูซ b_B @@_I r_I uu_I t^_E
+บลีช บลีช bl_B ii_I t^_E
+บอก บอก b_B @@_I k^_E
+บัญชี บัญชี b_B a_I n^_I ch_I ii_E
+บัตร บัตร b_B a_I t^_E
+บัว บัว b_B uua_E
+บาท บาท b_B aa_I t^_E
+บิงซู บิงซู b_B i_I ng^_I s_I uu_E
+บิล บิล b_B q_I n^_E
+บิวตี้ บิวตี้ b_B i_I w^_I t_I ii_E
+บี บี b_B ii_E
+บีทีเอส บีทีเอส b_B ii_I th_I ii_I z_I ee_I t^_E
+บีสต์ บีสต์ b_B ii_I t^_E
+บุฟเฟต์ บุฟเฟต์ b_B u_I f_I f_E
+บ่าย บ่าย b_B aa_I j^_E
+บ้าง บ้าง b_B aa_I ng^_E
+บ้าน บ้าน b_B aa_I n^_E
+บ๊ายบาย บ๊ายบาย b_B aa_I j^_I b_I aa_I j^_E
+ปฎิทิน ปฎิทิน p_B a_I d_I i_I th_I i_I n^_E
+ประชาสัมพันธ์ ประชาสัมพันธ์ pr_B a_I ch_I aa_I s_I a_I m^_I ph_I a_I n^_E
+ประชุม ประชุม pr_B a_I ch_I u_I m^_E
+ประดับ ประดับ pr_B a_I d_I a_I p^_E
+ประทับ ประทับ pr_B a_I th_I a_I p^_E
+ประมาณ ประมาณ pr_B a_I m_I aa_I n^_E
+ประวัติ ประวัติ pr_B a_I w_I a_I t^_E
+ประเภท ประเภท pr_B a_I ph_I ee_I t^_E
+ปลั๊ก ปลั๊ก pl_B a_I o_I k^_E
+ปลุก ปลุก pl_B u_I k^_E
+ปะ ปะ p_B a_E
+ปัง ปัง p_B a_I ng^_E
+ปังเย็น ปังเย็น p_B a_I ng^_I j_I e_I n^_E
+ปาร์ค ปาร์ค p_B aa_I k^_E
+ปาร์ตี้ ปาร์ตี้ p_B aa_I t^_I ii_E
+ปิด ปิด p_B i_I t^_E
+ปิ้ง ปิ้ง p_B i_I ng^_E
+ปี ปี p_B ii_E
+ป๊อปคอร์น ป๊อปคอร์น p_B o_I pr_I kh_I @@_I o_I n^_E
+ผม ผม ph_B o_I m^_E
+ผลไม้ ผลไม้ ph_B o_I n^_I l_I a_I m_I aa_I j^_E
+ผักกาด ผักกาด ph_B a_I k^_I k_I aa_I t^_E
+ผัด ผัด ph_B a_I t^_E
+ผัดซีอิ๊ว ผัดซีอิ๊ว ph_B a_I t^_I s_I ii_I z_I i_I o_I w^_E
+ผู้ใหญ่ ผู้ใหญ่ ph_B uu_I j_I a_I j^_E
+ผ่าน ผ่าน ph_B aa_I n^_E
+ผ้า ผ้า ph_B aa_E
+ฝน ฝน f_B o_I n^_E
+ฝาก ฝาก f_B aa_I k^_E
+พร พร ph_B @@_I n^_E
+พรจากฟ้า พรจากฟ้า phr_B c_I aa_I k^_I f_I aa_E
+พระเกี้ยว พระเกี้ยว phr_B a_I k_I iia_I w^_E
+พริก พริก phr_B i_I k^_E
+พริกไทย พริกไทย phr_B i_I k^_I th_I a_I j^_E
+พรีวิเลจ พรีวิเลจ phr_B ii_I w_I i_I l_I t^_E
+พรีเมี่ยม พรีเมี่ยม phr_B ii_I m_I iia_I m^_E
+พรุ่ง พรุ่ง phr_B u_I ng^_E
+พรุ่งนี้ พรุ่งนี้ phr_B u_I ng^_I n_I ii_E
+พฤหัส พฤหัส ph_B a_I r_I v_I h_I a_I t^_E
+พอ พอ ph_B @@_E
+พอส พอส ph_B @@_I t^_E
+พะโล้ พะโล้ ph_B a_I l_I xx_E
+พัก พัก ph_B a_I k^_E
+พากย์ พากย์ ph_B aa_I k^_E
+พาณิชย์ พาณิชย์ ph_B aa_I n_I i_I t^_E
+พารากอน พารากอน ph_B aa_I r_I aa_I k_I @@_I n^_E
+พาราโบลา พาราโบลา ph_B aa_I r_I aa_I b_I oo_I l_I aa_E
+พิกัด พิกัด ph_B i_I k_I a_I t^_E
+พิการ พิการ ph_B i_I k_I aa_I n^_E
+พิเศษ พิเศษ ph_B i_I s_I ee_I t^_E
+พุธ พุธ ph_B u_I t^_E
+พูด พูด ph_B uu_I t^_E
+ฟรี ฟรี fr_B ii_E
+ฟรุตตี้ ฟรุตตี้ fr_B u_I t^_I t_I ii_E
+ฟัง ฟัง f_B a_I ng^_E
+ฟันขาว ฟันขาว f_B a_I n^_I kh_I aa_I w^_E
+ฟิตเนส ฟิตเนส f_B i_I t^_I t_I a_I n_I ee_I t^_E
+ฟิฟตี้ ฟิฟตี้ f_B i_I f_I t_I ii_E
+ฟ้า ฟ้า f_B aa_E
+ภาค ภาค ph_B aa_I k^_E
+มรณะ มรณะ m_B a_I r_I a_I n_I a_E
+มหิต มหิต m_B a_I h_I i_I t^_E
+มะม่วง มะม่วง m_B a_I m_I uua_I ng^_E
+มะรืน มะรืน m_B a_I r_I vv_I n^_E
+มักโรนี มักโรนี m_B a_I k^_I r_I oo_I n_I ii_E
+มังสวิรัติ มังสวิรัติ m_B a_I ng^_I s_I a_I w_I i_I r_I a_I t^_E
+มัน มัน m_B a_I n^_E
+มั้ย มั้ย m_B a_E
+มา มา m_B aa_E
+มาก มาก m_B aa_I k^_E
+มาบุญครอง มาบุญครอง m_B aa_I b_I u_I n^_I khr_I @@_I ng^_E
+มาม่า มาม่า m_B aa_I m_I a_I w^_E
+มาย มาย m_B aa_I j^_E
+มารูน มารูน m_B aa_I r_I uu_I n^_E
+มิติ มิติ m_B i_I t_I i_E
+มิยาบิ มิยาบิ m_B i_I j_I aa_I b_I i_E
+มี มี m_B ii_E
+มีนา มีนา m_B ii_I n_I aa_E
+มื้อ มื้อ m_B vv_E
+มูฟวี่ มูฟวี่ m_B uu_I f_I w_I ii_E
+ม้้ย ม้้ย m_S
+ย ย qq_B j^_E
+ยกเลิก ยกเลิก j_B o_I k^_I l_I qq_I k^_E
+ยักษ์ ยักษ์ j_B a_I k^_E
+ยัง ยัง j_B a_I ng^_E
+ยังไง ยังไง j_B a_I ng^_I ng_I a_I j^_E
+ยา ยา j_B aa_E
+ยาว ยาว j_B aa_I w^_E
+ยาโยอิ ยาโยอิ j_B aa_I j_I oo_I z_I i_E
+ยิน ยิน j_B i_I n^_E
+ยี่ ยี่ j_B ii_E
+ยี่สิบ ยี่สิบ j_B ii_I s_I i_I p^_E
+ยืนยัน ยืนยัน j_B vv_I n^_I j_I a_I n^_E
+ยู ยู j_B uu_E
+ย่อ ย่อ j_B @@_E
+ย่าง ย่าง j_B aa_I ng^_E
+ย้าย ย้าย j_B aa_I j^_E
+รถ รถ r_B o_I t^_E
+รส รส r_B o_I t^_E
+รหัส รหัส r_B a_I h_I a_I t^_E
+รอ รอ r_B @@_E
+รองเท้า รองเท้า r_B @@_I ng^_I th_I aa_I w^_E
+รอบ รอบ r_B @@_I p^_E
+ระหว่าง ระหว่าง r_B a_I w_I aa_I ng^_E
+รัก รัก r_B a_I k^_E
+รับ รับ r_B a_I p^_E
+ราคา ราคา r_B aa_I kh_I aa_E
+รางวัล รางวัล r_B aa_I ng^_I w_I a_I n^_E
+ราย ราย r_B aa_I j^_E
+รายการ รายการ r_B aa_I j^_I k_I aa_I n^_E
+รายงาน รายงาน r_B aa_I j^_I ng_I aa_I n^_E
+รายชื่อ รายชื่อ r_B aa_I j^_I ch_I vv_E
+รายได้ รายได้ r_B aa_I j^_I d_I aa_I j^_E
+ริม ริม r_B i_I m^_E
+ริฮันนา ริฮันนา r_B i_I h_I a_I n^_I n_I aa_E
+รีบ รีบ r_B ii_I p^_E
+รีวิว รีวิว r_B ii_I w_I i_I w^_E
+รึยัง รึยัง r_B v_I j_I a_I ng^_E
+รุจิศรี รุจิศรี r_B u_I c_I i_I s_I ii_E
+ร้อง ร้อง r_B @@_I ng^_E
+ร้อย ร้อย r_B @@_I j^_E
+ร้าน ร้าน r_B aa_I n^_E
+ลด ลด l_B o_I t^_E
+ลบ ลบ l_B o_I p^_E
+ลวก ลวก l_B uua_I k^_E
+ลอย ลอย l_B @@_I j^_E
+ละ ละ l_B a_E
+ละหมาด ละหมาด l_B a_I m_I aa_I t^_E
+ลา ลา l_B aa_E
+ลางาน ลางาน l_B aa_I ng_I aa_I n^_E
+ลาน ลาน l_B aa_I n^_E
+ลิฟท์ ลิฟท์ l_B i_I f_E
+ลิโด้ ลิโด้ l_B i_I d_I a_I j^_E
+ลืม ลืม l_B vv_I m^_E
+ลุก ลุก l_B u_I k^_E
+ลุง ลุง l_B u_I ng^_E
+ลูก ลูก l_B uu_I k^_E
+ล็อบสเตอร์ ล็อบสเตอร์ l_B e_I @@_I p^_I s_I a_I t_I qq_E
+ล่วง ล่วง l_B uua_I ng^_E
+ล่า ล่า l_B aa_E
+ล่าสุด ล่าสุด l_B aa_I s_I u_I t^_E
+วอล วอล w_B @@_I n^_E
+วอล์ค วอล์ค w_B @@_I w^_I k^_E
+วัตถุดิบ วัตถุดิบ w_B a_I t^_I th_I u_I d_I i_I p^_E
+วัน วัน w_B a_I n^_E
+วันที่ วันที่ w_B a_I n^_I th_I ii_E
+วันนี้ วันนี้ w_B a_I n^_I n_I ii_E
+วันศุกร์ วันศุกร์ w_B a_I n^_I s_I u_I k^_E
+วันหยุด วันหยุด w_B a_I n^_I j_I u_I t^_E
+วันเสาร์ วันเสาร์ w_B a_I n^_I s_I a_I w^_E
+วันไหน วันไหน w_B a_I n^_I n_I a_I j^_E
+วาน วาน w_B aa_I n^_E
+วานซืน วานซืน w_B aa_I n^_I s_I vv_I n^_E
+วิธี วิธี w_B i_I th_I ii_E
+วิธีทำ วิธีทำ w_B i_I th_I ii_I th_I a_I m^_E
+วินาที วินาที w_B i_I n_I aa_I th_I ii_E
+วิฟ วิฟ w_B i_I f^_E
+วิลลิส วิลลิส w_B i_I n^_I l_I i_I t^_E
+วิศวะ วิศวะ w_B i_I t^_I s_I a_I w_I a_E
+ว่า ว่า w_B aa_E
+ว่าง ว่าง w_B aa_I ng^_E
+ศาลา ศาลา s_B aa_I l_I aa_E
+ศิลปิน ศิลปิน s_B i_I n^_I l_I a_I p_I i_I n^_E
+ศุกร์ ศุกร์ s_B u_I k^_E
+ศูนย์ ศูนย์ s_B uu_I n^_E
+สกาย สกาย s_B a_I k_I aa_I j^_E
+สคิป สคิป s_B a_I kh_I i_I p^_E
+สตางค์ สตางค์ s_B a_I t_I aa_I ng^_E
+สตาร์บัค สตาร์บัค s_B a_I t_I aa_I b_I a_I k^_E
+สตาร์วอร์ สตาร์วอร์ s_B a_I t_I aa_I w_I @@_E
+สต็อป สต็อป s_B a_I t_I @_I p^_E
+สถานี สถานี s_B a_I th_I aa_I n_I ii_E
+สน สน s_B o_I n^_E
+สมัคร สมัคร s_B a_I m_I a_I k^_E
+สมาชิก สมาชิก s_B a_I m_I aa_I ch_I i_I k^_E
+สยอง สยอง s_B a_I j_I @@_I ng^_E
+สยาม สยาม s_B a_I j_I aa_I m^_E
+สระ สระ s_B a_I r_I a_E
+สร้าง สร้าง s_B aa_I ng^_E
+สวิฟ สวิฟ s_B a_I w_I i_I f^_E
+สวีท สวีท s_B a_I w_I ii_I t^_E
+สอง สอง s_B @@_I ng^_E
+สอน สอน s_B @@_I n^_E
+สอบ สอบ s_B @@_I p^_E
+สะสาง สะสาง s_B a_I s_I aa_I ng^_E
+สัก สัก s_B a_I k^_E
+สับ สับ s_B a_I p^_E
+สัปดาห์ สัปดาห์ s_B a_I p^_I d_I aa_E
+สั่ง สั่ง s_B a_I ng^_E
+สาขา สาขา s_B aa_I kh_I aa_E
+สาม สาม s_B aa_I m^_E
+สามย่าน สามย่าน s_B aa_I m_I j_I aa_I n^_E
+สาย สาย s_B aa_I j^_E
+สำหรับ สำหรับ s_B a_I m^_I r_I a_I p^_E
+สิงหา สิงหา s_B i_I ng^_I h_I aa_E
+สิบ สิบ s_B i_I p^_E
+สิบเอ็ด สิบเอ็ด s_B i_I p^_I z_I e_I t^_E
+สิ้น สิ้น s_B i_I n^_E
+สี่ สี่ s_B ii_E
+สุกี้ สุกี้ s_B u_I k_I ii_E
+สุด สุด s_B u_I t^_E
+สุดท้าย สุดท้าย s_B u_I t^_I th_I aa_I j^_E
+สุภาพ สุภาพ s_B u_I ph_I aa_I p^_E
+สุ่ม สุ่ม s_B u_I m^_E
+สูง สูง s_B uu_I ng^_E
+สูตร สูตร s_B uu_I t^_E
+สเตย์ สเตย์ s_B a_I t_I ee_E
+สเต็ก สเต็ก s_B a_I t_I e_I k^_E
+สแควร์ สแควร์ s_B khw_E
+ส่ง ส่ง s_B o_I ng^_E
+ส่วน ส่วน s_B uua_I n^_E
+ส้ม ส้ม s_B e_I m^_E
+ส้มตำ ส้มตำ s_B e_I m^_I t_I a_I m^_E
+หก หก h_B o_I k^_E
+หนัง หนัง n_B a_I ng^_E
+หนังสือ หนังสือ n_B a_I ng^_I s_I vv_E
+หนี หนี n_B ii_E
+หนึ่ง หนึ่ง n_B v_I ng^_E
+หน่อย หน่อย n_B @_I j^_E
+หน้า หน้า n_B aa_E
+หมด หมด m_B o_I t^_E
+หมอ หมอ m_B @@_E
+หมู หมู m_B uu_E
+หมูสับ หมูสับ m_B uu_I s_I a_I p^_E
+หยุด หยุด j_B u_I t^_E
+หรือ หรือ r_B vv_E
+หลัง หลัง l_B a_I ng^_E
+หลับ หลับ l_B a_I p^_E
+หวาน หวาน w_B aa_I n^_E
+หอ หอ h_B @@_E
+หอย หอย h_B @@_I j^_E
+หา หา h_B aa_E
+หาย หาย h_B aa_I j^_E
+ห่าง ห่าง h_B aa_I ng^_E
+ห้อง ห้อง h_B @_I ng^_E
+ห้า ห้า h_B aa_E
+ห้าม ห้าม h_B aa_I m^_E
+อกหัก อกหัก z_B o_I k^_I h_I a_I k^_E
+อด อด z_B o_I t^_E
+อยาก อยาก j_B aa_I k^_E
+อยู่ อยู่ j_B uu_E
+อย่า อย่า j_B aa_E
+อย่าง อย่าง j_B aa_I ng^_E
+อย่างไร อย่างไร j_B aa_I ng^_I r_I a_I j^_E
+อร่อย อร่อย z_B a_I r_I @_I j^_E
+ออก ออก z_B @@_I k^_E
+ออฟ ออฟ z_B @@_I f^_E
+ออสการ์ ออสการ์ z_B @@_I s_I oo_I k_I aa_E
+อะ อะ z_B a_E
+อะไร อะไร z_B a_I r_I a_I j^_E
+อะไรวอล อะไรวอล z_B a_I r_I a_I w_I @_I n^_E
+อักษร อักษร z_B a_I k^_I s_I @@_I n^_E
+อังคาร อังคาร z_B a_I ng^_I kh_I aa_I n^_E
+อันดับ อันดับ z_B a_I n^_I d_I a_I p^_E
+อันเดอร์วอเตอร์เวิล์ด อันเดอร์วอเตอร์เวิล์ด z_B a_I n^_I d_I @@_I w_I @@_I t_I qq_I w_I qq_I t^_E
+อัลบั้ม อัลบั้ม z_B a_I n^_I b_I a_I m^_E
+อาทิตย์ อาทิตย์ z_B aa_I th_I i_I t^_E
+อาบ อาบ z_B aa_I p^_E
+อาย อาย z_B aa_I j^_E
+อายุ อายุ z_B aa_I j_I u_E
+อาหาร อาหาร z_B aa_I h_I aa_I n^_E
+อินเซปชั่น อินเซปชั่น z_B i_I n^_I s_I p^_I ch_I a_I n^_E
+อีก อีก z_B ii_I k^_E
+อีกรอบ อีกรอบ z_B ii_I kr_I @@_I p^_E
+อีเมล อีเมล z_B ii_I m_I o_I n^_E
+อีเมล์ อีเมล์ z_B ii_I m_I ee_E
+อื่น อื่น z_B vv_I n^_E
+อุปกรณ์ อุปกรณ์ z_B u_I p^_I p_I a_I k_I @@_I n^_E
+อเมซอน อเมซอน z_B a_I m_I ee_I s_I @@_I n^_E
+อ่าน อ่าน z_B aa_I n^_E
+อ้อม อ้อม z_B @@_I m^_E
+อ้อย อ้อย z_B @@_I j^_E
+อ้าว อ้าว z_B aa_I w^_E
+ฮันนี่มูน ฮันนี่มูน h_B a_I n^_I n_I ii_I m_I uu_I n^_E
+ฮาจิบัง ฮาจิบัง h_B aa_I c_I i_I b_I a_I ng^_E
+เกลือ เกลือ kl_B vva_E
+เกาหลี เกาหลี k_B a_I w^_I l_I ii_E
+เกาเหลา เกาเหลา k_B a_I w^_I l_I aa_E
+เกิน เกิน k_B qq_I n^_E
+เกี่ยว เกี่ยว k_B iia_I w^_E
+เก้า เก้า k_B a_I w^_E
+เขต เขต kh_B ee_I t^_E
+เขียน เขียน kh_B iia_I n^_E
+เขียว เขียว kh_B iia_I w^_E
+เข้า เข้า kh_B a_I w^_E
+เครดิต เครดิต khr_B ee_I d_I i_I t^_E
+เครป เครป khr_B ee_I p^_E
+เครือ เครือ khr_B vva_E
+เครื่อง เครื่อง khr_B vva_I ng^_E
+เคลียร์ เคลียร์ khl_B iia_E
+เคเอฟซี เคเอฟซี kh_B ee_I z_I x_I s_I ii_E
+เงิน เงิน ng_B q_I n^_E
+เงียบ เงียบ ng_B iia_I p^_E
+เจฟเฟอร์ เจฟเฟอร์ c_B ee_I p^_I f_I @@_E
+เจียว เจียว c_B iia_I w^_E
+เจ็ด เจ็ด c_B e_I t^_E
+เจ้า เจ้า c_B a_I w^_E
+เจ๊ เจ๊ c_B ee_I o_E
+เชดส์ เชดส์ ch_B ee_I t^_E
+เชพ เชพ ch_B o_I p^_E
+เชื่อม เชื่อม ch_B vva_I m^_E
+เช็ค เช็ค ch_B e_I k^_E
+เช่า เช่า ch_B a_I w^_E
+เช้า เช้า ch_B aa_I w^_E
+เซ เซ s_S
+เซงเซียมอี๊ เซงเซียมอี๊ s_B e_I ng^_I s_I iia_I m^_I z_I ii_I o_E
+เซนเตอร์ เซนเตอร์ s_B e_I n^_I t_I qq_E
+เซอเคิล เซอเคิล s_B @@_I kh_I i_I n^_E
+เซเว่น เซเว่น s_B oo_I w_I xx_I n^_E
+เซ็นทรัลเวิลด์ เซ็นทรัลเวิลด์ s_B e_I n^_I s_I a_I n^_I w_I qq_I w^_E
+เดอะ เดอะ d_B q_E
+เดือน เดือน d_B vva_I n^_E
+เด็ก เด็ก d_B e_I k^_E
+เด็ด เด็ด d_B e_I t^_E
+เตือน เตือน t_B vva_I n^_E
+เถอะ เถอะ th_B q_E
+เทค เทค th_B e_I k^_E
+เทพ เทพ th_B ee_I p^_E
+เที่ยง เที่ยง th_B iia_I ng^_E
+เทเลอร์ เทเลอร์ th_B ee_I l_I qq_E
+เท่า เท่า th_B a_I w^_E
+เท่าไร เท่าไร th_B a_I w^_I r_I a_I j^_E
+เท่าไหร่ เท่าไหร่ th_B a_I w^_I r_I a_I j^_E
+เนย เนย n_B ee_E
+เนี่ย เนี่ย n_B iia_E
+เนื้อ เนื้อ n_B vva_E
+เบอร์ เบอร์ b_B qq_E
+เบา เบา b_B a_I w^_E
+เปรี้ยว เปรี้ยว pr_B iia_I w^_E
+เปลี่ยน เปลี่ยน pl_B iia_I n^_E
+เปล่า เปล่า pl_B aa_I w^_E
+เปอร์เซ็นต์ เปอร์เซ็นต์ p_B qq_I s_I e_I n^_E
+เปิด เปิด p_B qq_I t^_E
+เป็น เป็น p_B e_I n^_E
+เพลง เพลง phl_B ee_I ng^_E
+เพลย์ลิส เพลย์ลิส phl_B ee_I l_I i_I t^_E
+เพลลิสต์ เพลลิสต์ ph_B e_I n^_I l_I i_I t^_E
+เพลิง เพลิง phl_B qq_I ng^_E
+เพิ่ม เพิ่ม ph_B qq_I m^_E
+เพื่อน เพื่อน ph_B vva_I n^_E
+เฟ้ย เฟ้ย f_S
+เมนู เมนู m_B a_I n_I uu_E
+เมล์ เมล์ m_B ee_E
+เมื่อ เมื่อ m_B vva_E
+เมื่อคืน เมื่อคืน m_B vva_I kh_I vv_I n^_E
+เมื่อวาน เมื่อวาน m_B vva_I w_I aa_I n^_E
+เมื่อไหร่ เมื่อไหร่ m_B vva_I r_I a_I j^_E
+เมเจอร์ เมเจอร์ m_B ee_I c_I @@_E
+เยส เยส j_B ee_I t^_E
+เยอะ เยอะ j_B q_E
+เย็น เย็น j_B e_I n^_E
+เย็นนี้ เย็นนี้ j_B e_I n^_I n_I ii_E
+เรด เรด r_B o_I t^_E
+เรตติ้ง เรตติ้ง r_B ee_I t^_I t_I i_I ng^_E
+เรา เรา r_B a_I w^_E
+เริ่ม เริ่ม r_B qq_I m^_E
+เรียก เรียก r_B iia_I k^_E
+เรียง เรียง r_B iia_I ng^_E
+เรียน เรียน r_B iia_I n^_E
+เรียนพิเศษ เรียนพิเศษ r_B iia_I n^_I ph_I i_I s_I ee_I t^_E
+เรือ เรือ r_B vva_E
+เรื่อง เรื่อง r_B vva_I ng^_E
+เร็ว เร็ว r_B e_I w^_E
+เลย เลย l_B qq_I j^_E
+เลิก เลิก l_B qq_I k^_E
+เลิฟ เลิฟ l_B qq_I f^_E
+เลี้ยง เลี้ยง l_B iia_I ng^_E
+เลื่อน เลื่อน l_B vva_I n^_E
+เลโก เลโก l_B ee_I k_I oo_E
+เล่น เล่น l_B e_I n^_E
+เวลา เวลา w_B ee_I l_I aa_E
+เววเวต เววเวต w_B ee_I w_I a_I w_I ee_I t^_E
+เวียดนาม เวียดนาม w_B iia_I t^_I n_I aa_I m^_E
+เศรษฐศาสตร์ เศรษฐศาสตร์ s_B ee_I t^_I th_I a_I s_I aa_I t^_E
+เสนอ เสนอ s_B a_I n_I qq_E
+เสริมสวย เสริมสวย s_B qq_I m^_I s_I uua_I j^_E
+เสร็จ เสร็จ s_B e_I t^_E
+เสาร์ เสาร์ s_B a_I w^_E
+เสียง เสียง s_B iia_I ng^_E
+เสือ เสือ s_B vva_E
+เส้น เส้น s_B e_I n^_E
+เหมือน เหมือน m_B vva_I n^_E
+เหรอ เหรอ r_B qq_E
+เหรียญ เหรียญ r_B iia_I n^_E
+เหลือ เหลือ l_B vva_E
+เอ เอ z_B ee_E
+เอง เอง z_B ee_I ng^_E
+เอช เอช z_B ee_I t^_E
+เอทีเอม เอทีเอม z_B ee_I th_I ii_I z_I o_I m^_E
+เอน เอน z_B ee_I n^_E
+เอฟ เอฟ z_B ee_I p^_E
+เอฟเวอรี่ไทม์ เอฟเวอรี่ไทม์ z_B x_I w_I ee_I qq_I r_I ii_I th_I a_I m_E
+เอมอาที เอมอาที z_B ee_I m_I z_I aa_I th_I ii_E
+เอส เอส z_B ee_I t^_E
+เอา เอา z_B a_I w^_E
+เอ็กซ์ เอ็กซ์ z_B e_I k^_I s_E
+เอ็ด เอ็ด z_B e_I t^_E
+เอ็ม เอ็ม z_B e_I m^_E
+เอ็มเค เอ็มเค z_B e_I m^_I kh_I ee_E
+เฮท เฮท h_B t^_E
+แกง แกง k_B xx_I ng^_E
+แคนท์ แคนท์ kh_B o_I n^_E
+แคนเซิล แคนเซิล kh_B xx_I n^_I s_I i_I n^_E
+แคลอรี่ แคลอรี่ khl_B @@_I r_I ii_E
+แค่ แค่ kh_B xx_E
+แค่ไหน แค่ไหน kh_B xx_I n_I a_I j^_E
+แจ้ง แจ้ง c_B xx_I ng^_E
+แดง แดง d_B xx_I ng^_E
+แต่ง แต่ง t_B x_I ng^_E
+แถม แถม th_B xx_I m^_E
+แถว แถว th_B xx_I w^_E
+แท็กซี่ แท็กซี่ th_B x_I k^_I s_I ii_E
+แนว แนว n_B xx_I w^_E
+แนะนำ แนะนำ n_B x_I n_I a_I m^_E
+แบบ แบบ b_B xx_I p^_E
+แบ็ทแมน แบ็ทแมน b_B e_I th_I m_I xx_I n^_E
+แปด แปด p_B xx_I t^_E
+แปป แปป p_B xx_I p^_E
+แผนที่ แผนที่ ph_B xx_I n^_I th_I ii_E
+แพง แพง ph_B xx_I ng^_E
+แพทย์ แพทย์ ph_B xx_I t^_E
+แฟลช แฟลช f_B xx_I l^_I t^_E
+แรก แรก r_B xx_I k^_E
+แรนดอม แรนดอม r_B xx_I n^_I d_I @_I m^_E
+แรนด้อม แรนด้อม r_B xx_I n^_I d_I @@_I m^_E
+แลก แลก l_B xx_I k^_E
+แลนด์ แลนด์ l_B xx_I n^_E
+และ และ l_B x_E
+แล้ว แล้ว l_B xx_I w^_E
+แว่น แว่น w_B xx_I n^_E
+แสดง แสดง s_B a_I d_I xx_I ng^_E
+แสตมป์ แสตมป์ s_B a_I t_I xx_I m^_E
+แห้ง แห้ง h_B xx_I ng^_E
+แอนด์ แอนด์ z_B xx_I n^_E
+แอม แอม z_B xx_I m^_E
+แอมปาร์ค แอมปาร์ค z_B xx_I m^_I aa_I k^_E
+แอล แอล z_B xx_I l^_E
+แอ็คชั่น แอ็คชั่น z_B e_I kh_I ch_I a_I n^_E
+แฮรี่พอตเตอร์ แฮรี่พอตเตอร์ h_B r_I ii_I ph_I @@_I t_I a_I t_I qq_E
+โกวาจี โกวาจี k_B oo_I w_I aa_I c_I ii_E
+โฆษณา โฆษณา kh_B s_I a_I n_I aa_E
+โจอี้บอย โจอี้บอย c_B oo_I z_I ii_I b_I @_I j^_E
+โจ๊ก โจ๊ก c_B oo_I o_I k^_E
+โซน โซน s_B oo_I n^_E
+โซฟา โซฟา s_B oo_I f_I aa_E
+โดน โดน d_B oo_I n^_E
+โทร โทร th_B oo_I r_I a_I j^_E
+โทรศัพท์ โทรศัพท์ th_B oo_I r_I a_I s_I a_I p^_E
+โบว์ลิ่ง โบว์ลิ่ง b_B oo_I w^_I l_I i_I ng^_E
+โปรด โปรด pr_B oo_I t^_E
+โปรเจค โปรเจค pr_B oo_I c_I ee_I k^_E
+โปรแกรม โปรแกรม pr_B oo_I kr_I x_I m^_E
+โปรโมชัน โปรโมชัน pr_B oo_I m_I oo_I ch_I a_I n^_E
+โปรโมชั่น โปรโมชั่น pr_B oo_I m_I oo_I ch_I a_I n^_E
+โฟร์ โฟร์ f_B oo_E
+โมง โมง m_B oo_I ng^_E
+โรง โรง r_B oo_I ng^_E
+โรงหนัง โรงหนัง r_B oo_I ng^_I n_I a_I ng^_E
+โรตี โรตี r_B oo_I t_I ii_E
+โรแมนติก โรแมนติก r_B oo_I m_I xx_I n^_I t_I i_I k^_E
+โลแกน โลแกน l_B oo_I k_I xx_I n^_E
+โอ โอ z_B oo_E
+โอว โอว z_B oo_I w^_E
+โอโตยะ โอโตยะ z_B oo_I t_I a_I j_I a_E
+ใกล้ ใกล้ kl_B a_I j^_E
+ใคร ใคร khr_B a_I j^_E
+ใจ ใจ c_B a_I j^_E
+ใช่ ใช่ ch_B a_I j^_E
+ใช้ ใช้ ch_B a_I j^_E
+ใต้ ใต้ t_B aa_I j^_E
+ใน ใน n_B a_I j^_E
+ใส่ ใส่ s_B a_I j^_E
+ใหม่ ใหม่ m_B a_I j^_E
+ให้ ให้ h_B a_I j^_E
+ไกล ไกล kl_B a_I j^_E
+ไก่ ไก่ k_B a_I j^_E
+ไข่ ไข่ kh_B a_I j^_E
+ไง ไง ng_B a_I j^_E
+ได้ ได้ d_B aa_I j^_E
+ได้มั้ย ได้มั้ย d_B aa_I j^_I m_I a_E
+ได้ไหม ได้ไหม d_B aa_I j^_I m_I a_I j^_E
+ไทย ไทย th_B a_I j^_E
+ไนท์ ไนท์ n^_S
+ไป ไป p_B a_I j^_E
+ไผ่ ไผ่ ph_B xx_E
+ไผ่ทอง ไผ่ทอง ph_B th_I @@_I ng^_E
+ไฟ ไฟ f_B a_I j^_E
+ไฟฟ้า ไฟฟ้า f_B a_I j^_I f_I aa_E
+ไฟว์ ไฟว์ f_B a_I j^_I oo_E
+ไม่ ไม่ m_B a_I j^_E
+ไม่ว่าง ไม่ว่าง m_B a_I j^_I w_I aa_I ng^_E
+ไม้ ไม้ m_B aa_I j^_E
+ไร ไร r_B a_I j^_E
+ไวไฟ ไวไฟ w_B a_I f_I a_I j^_E
+ไส้ ไส้ s_B a_I j^_E
+ไหน ไหน n_B a_I j^_E
+ไหม ไหม m_B a_I j^_E
+ไหม้ ไหม้ m_B a_I j^_E
+ไหร่ ไหร่ r_B a_I j^_E
+ไห้ ไห้ h_B aa_I j^_E
+ไอ ไอ z_B a_I j^_E
+ไอติม ไอติม z_B a_I t_I i_I m^_E
+ไอที ไอที z_B th_I ii_E
+ไอรอนแมน ไอรอนแมน z_B a_I r_I @@_I n^_I m_I xx_I n^_E
+ไอเดีย ไอเดีย z_B a_I d_I iia_E
+ไอแม็กซ์ ไอแม็กซ์ z_B m_I e_I k^_I s_E
